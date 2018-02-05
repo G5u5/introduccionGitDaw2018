@@ -16,5 +16,7 @@ and open the template in the editor.
             $suma = 3 + 7;
             echo "3 + 7 = ".$suma;
         ?>
+        <h1>Versión 1.0</h1>
+        <p>Prueba TAG</p>
     </body>
 </html>
