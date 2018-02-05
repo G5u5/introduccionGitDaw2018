@@ -15,6 +15,8 @@ and open the template in the editor.
         <?php
             $suma = 3 + 7;
             echo "3 + 7 = ".$suma;
+            $multi = $suma * 5;
+            echo "$suma * 5 = ".$multi;
         ?>
     </body>
 </html>
