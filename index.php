@@ -12,5 +12,9 @@ and open the template in the editor.
     <body>
         <h1>Proyecto php para git</h1>
         <p>Proyecto para probar los comandos de git y los menús de NetBeans</p>
+        <?php
+            $suma = 3 + 7;
+            echo "3 + 7 = ".$suma;
+        ?>
     </body>
 </html>
